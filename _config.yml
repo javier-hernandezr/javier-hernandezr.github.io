@@ -23,7 +23,7 @@ repository               : "javier-hernandezr/javier-hernandezr.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "foto-portada.jpeg"
   name             : "Javier Hernández-Rodríguez"
   pronouns         : # example: "she/her"  
   bio              : "PhD Researcher in Theoretical & Computational Chemistry at Universidad de Salamanca."
