@@ -19,7 +19,7 @@ You can also find my articles on my
 **Roadmap for Molecular Benchmarks in Nonadiabatic Dynamics**
 L. E. Cigrang, B. F. E. Curchod, R. A. Ingle, ..., **J. Hernández-Rodríguez**, ..., A. Prlj* et al.
 *J. Phys. Chem. A*, 129(31), 7023–7050 (2025).
-[[Link]](https://doi.org/10.1021/acs.jpca.4c02186)
+[[Link]](https://pubs.acs.org/doi/10.1021/acs.jpca.5c02171)
 
 ### 2024
 
@@ -31,27 +31,14 @@ L. E. Cigrang, B. F. E. Curchod, R. A. Ingle, ..., **J. Hernández-Rodríguez**,
 **Photofragmentation of cyclobutanone at 200 nm: TDDFT vs CASSCF electron diffraction**
 A. Martín Santa Daría, **J. Hernández-Rodríguez**, L. M. Ibele, S. Gómez*.
 *J. Chem. Phys.*, 160, 114303 (2024).
-[[Link]](https://doi.org/10.1063/5.0199874)
+[[Link]](https://doi.org/10.1063/5.0197895)
 
 ### 2023
 
 **Potential energy surfaces for singlet and triplet states of the LiH₂⁺ system and quasi-classical trajectory cross sections**
 **J. Hernández-Rodríguez**, C. Sanz-Sanz, P. A. Enríquez, M. González*, M. Paniagua*.
 *Phys. Chem. Chem. Phys.*, 25(41), 28052–28062 (2023).
-[[Link]](https://doi.org/10.1039/D3CP03625A)
-
----
-
-## Papers in Preparation
-
-- **J. Hernández-Rodríguez**, S. Gómez-Carrasco, C. Sanz-Sanz, P. G. Jambrina.
-  *Quantum scattering pathway of the cofactorless spin-forbidden O₂ addition to DPA-CoA.*
-
-- **J. Hernández-Rodríguez**, A. Martín Santa Daría, S. Gómez.
-  *Nonadiabatic dynamics of tetraphenylsubstituted nitrogen-based heterocycles.*
-
-- **J. Hernández-Rodríguez**, M. Aarabi, S. Giannini, F. Santoro, S. Gómez.
-  *Unraveling the solid-state luminescence enhancement by nonadiabatic dynamics of the tetraphenylpyrazine dimer.*
+[[Link]](https://doi.org/10.1039/D3CP02959J)
 
 ---
 
