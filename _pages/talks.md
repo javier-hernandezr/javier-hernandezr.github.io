@@ -53,3 +53,69 @@ my [full CV](/files/CV-Javier_Hernandez.pdf).
 
 - **Quantum dynamics of the addition of O₂ to organic substrates** *(poster)*
   High Dimensional Quantum Dynamics (HDQD), Groningen, Netherlands.
+
+  ---
+
+## Conference Gallery
+
+<div style="max-width: 700px; margin: 0 auto; text-align: center;">
+
+  <!-- Carousel container -->
+  <div style="position: relative; overflow: hidden; border-radius: 10px;">
+
+    <!-- Slides -->
+    <div class="conf-slide" style="display: block;">
+      <img src="/images/bologna2.jpg" style="width:100%; border-radius:10px;" />
+      <p style="margin-top: 8px; font-style: italic; color: #555;">
+        COSY Cost Action General Meeting, Bologna, Italy — 2025
+      </p>
+    </div>
+
+    <div class="conf-slide" style="display: none;">
+      <img src="/images/foto-siena.jpeg" style="width:100%; border-radius:10px;" />
+      <p style="margin-top: 8px; font-style: italic; color: #555;">
+      15th Symposium on Computing π-Conjugated Compounds, University of Siena, Italy
+      </p>
+    </div>
+
+    <div class="conf-slide" style="display: none;">
+      <img src="/images/foto-imampc" style="width:100%; border-radius:10px;" />
+      <p style="margin-top: 8px; font-style: italic; color: #555;">
+        13th International Meeting on Atomic and Molecular Physics and Chemistry, Warsaw, Poland
+      </p>
+    </div>
+
+  </div>
+
+  <!-- Navigation buttons -->
+  <div style="margin-top: 14px;">
+    <button onclick="moveSlide(-1)"
+      style="padding: 8px 20px; margin: 0 8px; border: none; border-radius: 6px;
+             background: #1a5276; color: white; font-size: 18px; cursor: pointer;">
+      &#8592;
+    </button>
+    <button onclick="moveSlide(1)"
+      style="padding: 8px 20px; margin: 0 8px; border: none; border-radius: 6px;
+             background: #1a5276; color: white; font-size: 18px; cursor: pointer;">
+      &#8594;
+    </button>
+  </div>
+
+  <!-- Slide counter -->
+  <p id="slide-counter" style="margin-top: 8px; color: #888; font-size: 0.9em;">1 / 3</p>
+
+</div>
+
+<script>
+  let currentSlide = 0;
+  const slides = document.querySelectorAll('.conf-slide');
+
+  function moveSlide(direction) {
+    slides[currentSlide].style.display = 'none';
+    currentSlide = (currentSlide + direction + slides.length) % slides.length;
+    slides[currentSlide].style.display = 'block';
+    document.getElementById('slide-counter').textContent =
+      (currentSlide + 1) + ' / ' + slides.length;
+  }
+</script>
+
