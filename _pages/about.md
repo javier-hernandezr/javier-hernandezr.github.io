@@ -8,34 +8,34 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD researcher in Theoretical and Computational Chemistry at the
-[Departamento de Química Física](https://quimica.usal.es/),
+I am a PhD candidate in Theoretical and Computational Chemistry at the
+[Department of Physical Chemistry](https://quimfis.usal.es/),
 [Universidad de Salamanca](https://www.usal.es/), Spain.
-My research focuses on **non-adiabatic quantum dynamics**, photochemistry, and the
-simulation of ultrafast photoinduced processes in molecular systems.
-
-## Research Interests
-
-- Non-adiabatic dynamics and surface-hopping methods (SHARC)
-- Quantum wavepacket propagation: MCTDH and ML-MCTDH (QUANTICS)
-- Electronic structure: CASSCF, MRCI, CASPT2, CCSD(T), TD-DFT
-- Photochemistry of organic and donor-acceptor molecular systems
-- Spin-forbidden reactions and intersystem crossing dynamics
-- Enzymatic reactivity (DpgC, O₂ addition to organic substrates)
 
 ## Current Position
 
 Since September 2025 I hold a Fixed-term Teaching Fellowship at the
-Department of Physical Chemistry, Universidad de Salamanca, while continuing
-my PhD research under the supervision of
-[Dr. Susana Gómez Carrasco](https://usal.es) (USAL) and
-[Dr. Cristina Sanz-Sanz](https://www.uam.es) (UAM).
+Department of Physical Chemistry, while continuing my PhD research
+under the supervision of Dr. Susana Gómez Carrasco (USAL) and
+Dr. Cristina Sanz-Sanz (UAM).
 
-## International Research Stays
+## PhD Research
+My thesis focuses on the **reactivity of molecular oxygen**, specifically 
+on how **intersystem crossing (ISC) mechanisms** enable and control
+oxygen-dependent photochemistry in enzymatic and solvated environments.
 
-- **Feb–Mar 2026** — Université Bourgogne, Dijon (Supervisor: Fabien Gatti)
-  *Polyspherical coordinates for multi-dimensional MCTDH wavepacket propagations*
-- **Mar–Apr 2026** — Université Paris-Saclay, Orsay (Supervisor: David Lauvergnat)
-  *Automatic kinetic energy operators for oxygen reactivity dynamics*
-- **Jan–Feb 2025** — CNR, Pisa (Supervisor: Fabrizio Santoro)
-  *Linear Vibronic Coupling Hamiltonian for tetraphenylpyrazine dimer*
+This work combines high-level electronic structure methods such as CASSCF,
+MRCI and CASPT2 to compute potential energy surfaces, minimum energy 
+crossing paths, and spin-orbit couplings, with quantum nuclear dynamics 
+using MCTDH wavepacket propagation as implemented in QUANTICS.
+
+## Other Research Lines
+
+I investigate non-adiabatic excited-state dynamics of nitrogen-containing
+polycyclic aromatic systems using mixed quantum-classical dynamics (SHARC) 
+and wavepacket propagations with MCTDH and ML-MCTDH (QUANTICS). I additionally
+developed expertise in Fragment Diabatization and Linear Vibronic Coupling
+(LVC) Hamiltonian construction for molecular aggregates, applied to unravel 
+solid-state luminescence enhancement mechanisms. 
+
+
