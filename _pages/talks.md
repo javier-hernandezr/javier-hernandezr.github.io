@@ -1,11 +1,15 @@
 ---
 layout: archive
-title: "Talks & Conferences"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
 
 {% include base_path %}
+
+Below are selected highlights from my conference presentations. 
+For a complete list of talks, posters, and workshops, please see
+my [full CV](/files/CV-Javier_Hernandez.pdf).
 
 ---
 
@@ -36,14 +40,11 @@ author_profile: true
 
 ## 2023
 
-- **Intersystem crossing dynamics of O₂ and a DPA-CoA model** *(oral)*
-  3rd Conferencia Jóvenes Investigadores, FJI-INNOVA, Salamanca, Spain.
-
 - **Quantum effects of the enzymatic peroxidation of organic substrates** *(flash talk)*
   XXXIX Reunión Bienal de la RSEQ, Zaragoza, Spain.
 
 - **Quantum effects of forbidden spin transitions in reactions between organic substrates and O₂** *(oral)*
-  14th Young Researchers in AMO Physics, RSEQ, Madrid, Spain.
+  14th Young Researchers in Atomic and Molecular Physics Conf. RSEQ, Madrid, Spain.
 
 ## 2022
 
