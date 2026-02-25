@@ -79,11 +79,27 @@ my [full CV](/files/CV-Javier_Hernandez.pdf).
     </div>
 
     <div class="conf-slide" style="display: none;">
-      <img src="/images/foto-imampc" style="width:100%; border-radius:10px;" />
+      <img src="/images/foto-imampc.jpeg" style="width:100%; border-radius:10px;" />
       <p style="margin-top: 8px; font-style: italic; color: #555;">
         13th International Meeting on Atomic and Molecular Physics and Chemistry, Warsaw, Poland
       </p>
     </div>
+
+     <div class="conf-slide" style="display: none;">
+      <img src="/images/foto-wroclaw.jpeg" style="width:100%; border-radius:10px;" />
+      <p style="margin-top: 8px; font-style: italic; color: #555;">
+        COSY Cost Action General Meeting, Wroclaw, Poland
+      </p>
+    </div>
+
+     <div class="conf-slide" style="display: none;">
+      <img src="/images/foto-j2ifam.jpeg" style="width:100%; border-radius:10px;" />
+      <p style="margin-top: 8px; font-style: italic; color: #555;">
+        XV Conference of Young Researchers in Atomic and Molecular Physics, University of Valencia, Spain 
+      </p>
+    </div>
+
+
 
   </div>
 
