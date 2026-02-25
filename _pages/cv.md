@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,56 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+A full PDF version of my CV is available [here](/files/CV-Javier_Hernandez.pdf).
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+---
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+## Education
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+- **PhD in Chemical Science and Technology** (Mar 2022 – present)
+  Universidad de Salamanca.
+  Supervisors: Dr. Susana Gómez Carrasco (USAL) & Dr. Cristina Sanz-Sanz (UAM).
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+- **Master's Degree in Secondary Education Teaching** (Sep 2023 – Jun 2024)
+  Universidad de Salamanca.
+
+- **Erasmus Mundus Master in Theoretical Chemistry and Computational Modelling** (Sep 2020 – Sep 2022)
+  Universidad Autónoma de Madrid.
+  Thesis: *Quantum dynamics of spin-forbidden transitions*.
+  Supervisors: Dr. Cristina Sanz-Sanz & Dr. Susana Gómez Carrasco.
+
+- **Bachelor in Chemistry** (Sep 2013 – Jan 2020)
+  Universidad Autónoma de Madrid.
+
+---
+
+## Research Positions
+
+- **Fixed-term Teaching Fellowship** (Sep 2025 – present) — USAL, Physical Chemistry
+- **Fixed-term Teaching Fellowship** (Sep 2024 – Sep 2025) — USAL, Physical Chemistry
+- **Predoctoral Researcher** (Mar 2022 – Apr 2024) — USAL, Physical Chemistry
+
+---
+
+## Skills
+
+**Electronic Structure:** MOLPRO, GAUSSIAN, ORCA, MOLCAS, Q-CHEM |
+Methods: CASSCF, MRCI, CASPT2, CCSD(T), TD-DFT
+
+**Molecular Dynamics:** QUANTICS (MCTDH, ML-MCTDH), SHARC (surface hopping, LVC Hamiltonians), OVERDIA
+
+**Programming & Tools:** Bash, Fortran, Python, LaTeX, Gnuplot, Mathematica, VMD, Chemcraft
+
+---
+
+## Teaching
+
+| Course | Programme | Hours |
+|--------|-----------|-------|
+| Physical Chemistry I (Quantum Chemistry) | Chemistry | 27h lab (2025-26), 135h (2024-25) |
+| Physical Chemistry Laboratory | Chemistry | 64h (2025-26) |
+| Instrumental Techniques | Pharmacy | 75h (2024-25) |
+| Thermodynamics & Chemical Kinetics | Pharmacy / Biotechnology | 30h (2024-25) |
+| Physical Chemistry | Chemical Engineering | 16h (2025-26) |
+| Applied Thermodynamics | Chemical Engineering | 16h (2025-26) |
+| Chemical Kinetics | Chemical Engineering | 12h (2025-26) |
