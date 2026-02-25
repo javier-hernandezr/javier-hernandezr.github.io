@@ -19,7 +19,7 @@ You can also find my articles on my
 **Roadmap for Molecular Benchmarks in Nonadiabatic Dynamics**
 L. E. Cigrang, B. F. E. Curchod, R. A. Ingle, ..., **J. Hernández-Rodríguez**, ..., A. Prlj* et al.
 *J. Phys. Chem. A*, 129(31), 7023–7050 (2025).
-[[Link]](https://doi.org/10.1021/acs.jpca.5c00491)
+[[Link]](https://doi.org/10.1021/acs.jpca.4c02186)
 
 ### 2024
 
@@ -31,7 +31,7 @@ L. E. Cigrang, B. F. E. Curchod, R. A. Ingle, ..., **J. Hernández-Rodríguez**,
 **Photofragmentation of cyclobutanone at 200 nm: TDDFT vs CASSCF electron diffraction**
 A. Martín Santa Daría, **J. Hernández-Rodríguez**, L. M. Ibele, S. Gómez*.
 *J. Chem. Phys.*, 160, 114303 (2024).
-[[Link]](https://doi.org/10.1063/5.0196085)
+[[Link]](https://doi.org/10.1063/5.0199874)
 
 ### 2023
 
