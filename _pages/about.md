@@ -34,7 +34,7 @@ using MCTDH wavepacket propagation as implemented in QUANTICS.
 I investigate non-adiabatic excited-state dynamics of nitrogen-containing
 polycyclic aromatic systems using mixed quantum-classical dynamics (SHARC) 
 and wavepacket propagations with MCTDH and ML-MCTDH (QUANTICS). I additionally
-developed expertise in Fragment Diabatization and Linear Vibronic Coupling
+gained experience in Fragment Diabatization and Linear Vibronic Coupling
 (LVC) Hamiltonian construction for molecular aggregates, applied to unravel 
 solid-state luminescence enhancement mechanisms. 
 
