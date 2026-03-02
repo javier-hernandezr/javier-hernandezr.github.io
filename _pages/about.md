@@ -20,8 +20,8 @@ under the supervision of Dr. Susana Gómez Carrasco (USAL) and
 Dr. Cristina Sanz-Sanz (UAM).
 
 ## PhD Research
-My thesis focuses on the **reactivity of molecular oxygen**, specifically 
-on how **intersystem crossing (ISC) mechanisms** enable and control
+My thesis focuses on the reactivity of molecular oxygen, specifically 
+on how intersystem crossing (ISC) mechanisms enable and control
 oxygen-dependent photochemistry in enzymatic and solvated environments.
 
 This work combines high-level electronic structure methods such as CASSCF,
