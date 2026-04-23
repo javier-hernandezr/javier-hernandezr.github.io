@@ -26,7 +26,7 @@ A full PDF version of my CV is available [here](/files/CV-Javier_Hernandez.pdf).
   Universidad Autónoma de Madrid (UAM).
   Supervisors: Dr. Cristina Sanz-Sanz (UAM)& Dr. Susana Gómez Carrasco (USAL).
 
-- **Bachelor in Chemistry** (Sep 2013 – Jan 2020)
+- **Bachelor in Chemistry** 
   Universidad Autónoma de Madrid (UAM).
 
 ---
