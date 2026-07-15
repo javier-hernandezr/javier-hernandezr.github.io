@@ -14,6 +14,21 @@ You can also find my articles on my
 
 ## Peer-Reviewed Articles
 
+### 2026
+
+**Ultrafast nonadiabatic dynamics of tetraphenylsubstituted nitrogen-based heterocycles**
+**J. Hernández-Rodríguez**, Daría, A.M.S.; Gómez-Carrasco, S.; Gómez, S. 
+*Small Struct.*, (2026). Accepted
+[[Link]](https://doi.org/10.48550/arxiv.2604.16897)
+
+
+**Quantum scattering pathway of the cofactorless spin-forbidden O2 addition to DPA-CoA**
+**J. Hernández-Rodríguez**, S. Gómez-Carrasco; C. Sanz-Sanz; P. G. Jambrina
+*J. Chem. Phys.*, 165, 024311 (2026).
+[[Link]](https://doi.org/10.1063/5.0335944)
+
+
+
 ### 2025
 
 **Roadmap for Molecular Benchmarks in Nonadiabatic Dynamics**
