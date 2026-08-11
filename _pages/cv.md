@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-A full PDF version of my CV is available [here](/files/CV-Javier_Hernandez.pdf).
+A full PDF version of my CV is available [here](/files/CV-Javier-Hernandez-Rodriguez-100826.pdf).
 
 ---
 
