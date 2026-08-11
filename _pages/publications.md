@@ -18,8 +18,8 @@ You can also find my articles on my
 
 **Ultrafast nonadiabatic dynamics of tetraphenylsubstituted nitrogen-based heterocycles**
 **J. Hernández-Rodríguez**, Daría, A.M.S.; Gómez-Carrasco, S.; Gómez, S. 
-*Small Struct.*, (2026). Accepted
-[[Link]](https://doi.org/10.48550/arxiv.2604.16897)
+*Small Struct.*, **7**(8), e70567 (2026)
+[[Link]](https://onlinelibrary.wiley.com/doi/10.1002/sstr.70567)
 
 
 **Quantum scattering pathway of the cofactorless spin-forbidden O2 addition to DPA-CoA**
