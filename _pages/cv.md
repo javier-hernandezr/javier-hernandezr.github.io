@@ -9,13 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-A full PDF version of my CV is available [here](/files/CV-Javier-Hernandez-Rodriguez-100826.pdf).
+A full PDF version of my CV is available [here](/files/CV-Javier-Hernandez-Rodriguez-161126.pdf).
 
 ---
 
 ## Education
 
-- **PhD in Chemical Science and Technology** (Mar 2022 – present)
+- **PhD in Chemical Science and Technology** (Mar 2022 – Oct 2026)
   Universidad de Salamanca (USAL).
   Supervisors: Dr. Susana Gómez Carrasco (USAL) & Dr. Cristina Sanz-Sanz (UAM).
 
@@ -32,9 +32,8 @@ A full PDF version of my CV is available [here](/files/CV-Javier-Hernandez-Rodri
 ---
 
 ## Research Positions
-
-- **Fixed-term Teaching Fellowship** (Sep 2025 – present) — USAL, Physical Chemistry Department
-- **Fixed-term Teaching Fellowship** (Sep 2024 – Sep 2025) — USAL, Physical Chemistry Deparment
+- **Postdoctoral Researcher** (Nov 2026 – present) — University of Bologna, Dipartimento di Chimica Industriale "Toso Montanari"
+- **Fixed-term Teaching Fellowship** (Sep 2024 – Oct 2026) — USAL, Physical Chemistry Deparment
 - **Predoctoral Researcher** (Mar 2022 – Apr 2024) — USAL, Physical Chemistry Department
 
 ---
