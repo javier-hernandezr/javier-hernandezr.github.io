@@ -9,7 +9,7 @@ author_profile: true
 
 Below are selected highlights from my conference presentations. 
 For a complete list of talks, posters, and workshops, please see
-my [full CV](/files/CV-Javier_Hernandez.pdf).
+my [full CV](/files/CV-Javier-Hernandez-161126.pdf).
 
 ---
 
